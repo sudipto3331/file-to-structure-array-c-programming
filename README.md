@@ -2,6 +2,7 @@
 This is a sample code that could scan file's data and write those data into a structure array.
 SAMPLE DATA (students.txt):
 --------------------------
+
 Sajin 92 3.75
 Sudipto 90 3.85
 Soynik 81 4.00
